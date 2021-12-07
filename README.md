@@ -1,1 +1,1 @@
-# KR_UnityWalkingAniamtion
+# KR_UnityWalkingAnimation
